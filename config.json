@@ -1,0 +1,18 @@
+{
+  "oauth": {
+    "app": {
+      "consumer_key": "PT3UGNuTr8nidAuZuO8lQMuKO",
+      "consumer_secret": "DPdRTEELoBx45hisGhhm3CLXwAETXgk9hIDgd4fb7gIz2mpuvp"
+    },
+    "account": {
+      "access_token": "35513503-TGIT9u00hDwwNSGQl7x2jYr4T32Pb0lXzG7ZRgSCz",
+      "access_token_secret": "RyUuaWA8w17Cp3tlI9ZVXJNlAnAkHmSf7VXgixZh5RkjQ"
+    }
+  },
+  "__comment": "The directory and prefix fields must be strings or null. The timeout time is in milliseconds.",
+  "settings": {
+    "directory": "twitter_data",
+    "prefix": "tweets-",
+    "timeout": 5000
+  }
+}
